@@ -1,7 +1,7 @@
 # Strategic Business Insight Engine (SBIE)
 
 ## Overview  
-The **Strategic Business Insight Engine (SBIE)** is a powerful SQL-based application designed to empower businesses with data-driven insights. It enables users to manage and analyze critical business components like Competitor Analysis, Partnership Suggestions, Vendor/Supplier Management, and more. Built with an iterative development approach, SBIE ensures reliability and scalability.
+The **Strategic Business Insight Engine (SBIE)** is a powerful SQL-based application designed to empower businesses with data-driven insights. It enables users to manage and analyze critical business components like Competitor Analysis, Partnership Suggestions, Vendor/Supplier Management, and more. Built with an iterative development approach, SBIE ensures reliability and scalability. This was our mini project for the course: **DATABASE MANAGEMENT SYSTEMS** at PES University in Semester 5
 
 ---
 
